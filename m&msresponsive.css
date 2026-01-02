@@ -1,0 +1,519 @@
+@media screen and (min-width:320px) and (max-width:425px) {
+    .left-nav {
+        display: none;
+    }
+
+    .first-right {
+        display: none;
+    }
+
+    .second-right {
+        display: none;
+    }
+
+    .third-right img {
+        display: none;
+    }
+
+    .navbar {
+        height: 100%;
+    }
+
+    .menu {
+        display: block;
+        margin: 0px 10px;
+    }
+
+    .nav-2 {
+        display: block;
+    }
+
+    .first-rig {
+        padding: 10px 30px;
+        display: flex;
+        color: #5A1F09;
+        cursor: pointer;
+    }
+
+    .first-rig:hover {
+        background-color: #5A1F09;
+        color: white;
+    }
+
+    .second-rig:hover {
+        background-color: #5A1F09;
+        color: white;
+    }
+
+    .second-rig {
+        padding: 10px 30px;
+        display: flex;
+        cursor: pointer;
+        color: #5A1F09;
+    }
+
+    .first-rig img {
+        height: 20px;
+        margin: 0px 5px;
+    }
+
+    .second-rig img {
+        height: 20px;
+        margin: 0px 5px;
+    }
+
+    .slider {
+        flex-direction: column;
+        overflow: hidden;
+    }
+
+    .slider-1 h1 {
+        font-size: 2rem;
+    }
+
+    .btn {
+        flex-direction: column;
+        padding: 0px 20px;
+    }
+
+    .btn-1 img {
+        height: 30px;
+        width: 10vw;
+    }
+
+    .btn-1 p {
+        font-size: 15px;
+    }
+
+    .slider-4 {
+        height: 60vh;
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    .image {
+        height: 100px;
+        width: 80px;
+    }
+
+    .image img {
+        height: 50px;
+        width: 50px;
+        border-radius: 100%;
+        top: 100%;
+        left: 3%;
+    }
+
+    .first-section {
+        gap: 10px;
+    }
+
+    .first-1 {
+        width: 90%;
+    }
+
+    .second-section {
+        display: none;
+    }
+
+    .third-section p {
+        font-size: 1.5rem;
+    }
+
+    .third-sec-img img {
+        height: 30vh;
+        padding-top: 20px;
+        width: 100%;
+    }
+
+    .forth-section {
+        padding: 10px 0px;
+    }
+
+    .forth-sec-img {
+        width: 100%;
+    }
+
+    .forth-sec-img img {
+        height: 60vh;
+    }
+
+    .forth-sec-two {
+        width: 100%;
+        align-items: center;
+    }
+
+    .forth-sec-two h1 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    .forth-sec-two p {
+        font-size: 18px;
+        margin: 10px 0px;
+        text-align: center;
+    }
+
+    .occasions {
+        width: 50%;
+    }
+
+    .occasions button {
+        font-size: 15px;
+        color: #5A1F09;
+        font-weight: 500;
+        cursor: pointer;
+        border: none;
+        padding: 10px 0px;
+        background-color: transparent;
+    }
+
+    .fifth-section h1 {
+        font-size: 2rem;
+    }
+
+    .fifth-section p {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .fifth-img-sec {
+        width: 100%;
+    }
+
+    .first-foot img {
+        height: 40vh;
+        width: 100%;
+    }
+    .big{
+        font-size: 20px;
+        width: 100%;
+        text-align: left;
+    }
+    .right-foot{
+        width: 100%;
+    }
+    .icons{
+        gap: 10px;
+    }
+    .last-foot{
+        flex-direction: column;
+        padding: 10px 20px;
+        align-items: flex-start;
+    }
+    .l-second div{
+        display: flex;
+        flex-direction: column;
+    } 
+    
+}
+
+
+@media screen and (min-width:426px) and (max-width:768px) {
+    .left-nav {
+        display: none;
+    }
+
+    .first-right {
+        display: none;
+    }
+
+    .second-right {
+        display: none;
+    }
+
+    .third-right img {
+        display: none;
+    }
+
+    .navbar {
+        height: 100%;
+        padding: 0px 20px;
+        justify-content: space-between;
+    }
+
+    .menu {
+        display: block;
+        margin: 0px 10px;
+    }
+    .menu i {
+        font-size: 30px;
+    }
+
+    .nav-2 {
+        display: block;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px 0px;
+    }
+    .first-rig {
+        padding: 10px 30px;
+        display: flex;
+        color: #5A1F09;
+        cursor: pointer;
+    }
+
+    .first-rig:hover {
+        background-color: #5A1F09;
+        color: white;
+    }
+
+    .second-rig:hover {
+        background-color: #5A1F09;
+        color: white;
+    }
+
+    .second-rig {
+        padding: 10px 30px;
+        display: flex;
+        cursor: pointer;
+        color: #5A1F09;
+    }
+
+    .first-rig img {
+        height: 20px;
+        margin: 0px 5px;
+    }
+
+    .second-rig img {
+        height: 20px;
+        margin: 0px 5px;
+    }
+    .slider{
+        flex-direction: column;
+        padding: 10px 20px;
+    }
+    .slider h1{
+        font-size: 3.5rem;
+    }
+    .btn{
+        flex-direction: column;
+    }
+    .btn-1 img {
+        height: 35px;
+        width: 5vw;
+    }
+    .slider-4 {
+        height: 90vh;
+        margin-top: 20px;
+        width: 70%;
+    }
+    .image img{
+        top: 120%;
+        left: 10%;
+    }
+    .third-section{
+        padding: 10px 20px;
+    }
+    .third-section p{
+        font-size: 1.5rem;
+    }
+    .forth-section {
+        padding: 10px 0px;
+       
+    }
+
+    .forth-sec-img {
+        width: 100%;
+    }
+
+    .forth-sec-img img {
+        height: 60vh;
+    }
+
+    .forth-sec-two {
+        width: 100%;
+        align-items: center;
+    }
+
+    .forth-sec-two h1 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    .forth-sec-two p {
+        font-size: 18px;
+        margin: 10px 0px;
+        text-align: center;
+    }
+
+    .occasions {
+        width: 50%;
+    }
+    .f-2 img{
+        top: 0%;
+        left: 55%;
+    }
+    .fifth-section h1 {
+        font-size: 1.5rem;
+    }
+
+    .fifth-section p {
+        font-size: 16px;
+        padding: 0PX 20PX;
+        text-align: center;
+    }
+    .fifth-img-sec{
+        width: 100%;
+    }
+    .last-foot{
+        padding: 10px 20px;
+        align-items: center;
+        height: 100%;
+    }
+    .l-second div{
+        display: flex;
+        flex-direction: column;
+    } 
+}
+
+@media screen and (min-width:769px) and (max-width:1024px) {
+     .left-nav {
+        display: none;
+    }
+
+    .first-right {
+        display: none;
+    }
+
+    .second-right {
+        display: none;
+    }
+
+    .third-right img {
+        display: none;
+    }
+
+    .navbar {
+        height: 100%;
+        padding: 0px 20px;
+        justify-content: space-between;
+    }
+
+    .menu {
+        display: block;
+        margin: 0px 10px;
+    }
+    .menu i {
+        font-size: 30px;
+    }
+
+    .nav-2 {
+        display: block;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px 0px;
+    }
+    .first-rig {
+        padding: 10px 30px;
+        display: flex;
+        color: #5A1F09;
+        cursor: pointer;
+    }
+
+    .first-rig:hover {
+        background-color: #5A1F09;
+        color: white;
+    }
+
+    .second-rig:hover {
+        background-color: #5A1F09;
+        color: white;
+    }
+
+    .second-rig {
+        padding: 10px 30px;
+        display: flex;
+        cursor: pointer;
+        color: #5A1F09;
+    }
+
+    .first-rig img {
+        height: 20px;
+        margin: 0px 5px;
+    }
+
+    .second-rig img {
+        height: 20px;
+        margin: 0px 5px;
+    }
+    .slider-4{
+        height: auto;
+    }
+    .btn-1{
+        padding: 0px 10px;
+    }
+    .btn-1 p{
+        font-size: 15px;
+    }
+    .first-1{
+        height: 60vh;
+    }
+    .second-section p{
+        width: 400%;
+    }
+    .forth-section {
+        padding: 30px 0px;
+        flex-direction: row;
+    }
+
+    .forth-sec-img {
+        width: 50%;
+    }
+
+    .forth-sec-img img {
+        height: 60vh;
+    }
+
+    .forth-sec-two {
+        width: 50%;
+        align-items: center;
+    }
+
+    .forth-sec-two h1 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    .forth-sec-two p {
+        font-size: 18px;
+        margin: 10px 0px;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width:1025px) and (max-width:1440px) {
+    .slider-4{
+        height: auto;
+    }
+    .forth-section {
+        padding: 30px 0px;
+        flex-direction: row;
+    }
+
+    .forth-sec-img {
+        width: 50%;
+    }
+
+    .forth-sec-img img {
+        height: 60vh;
+    }
+
+    .forth-sec-two {
+        width: 50%;
+        align-items: center;
+    }
+
+    .forth-sec-two h1 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    .forth-sec-two p {
+        font-size: 18px;
+        margin: 10px 0px;
+        text-align: center;
+    }
+}
